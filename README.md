@@ -1,3 +1,5 @@
 # Test-project
 
-Just execute "npm init" and then "node app.js"!
+First, you need to download and unzip the files.
+
+Then, using command prompt, you go the directory of the files and execute "npm init" and then "node app.js"!
